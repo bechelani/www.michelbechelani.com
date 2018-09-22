@@ -6,17 +6,17 @@ body {
 }
 
 h1 {
-  font-size: 72px;
-  margin: 0;
+  font-size: 4em;
 }
 
 article {
-  font-size: 20px;
-  line-height: 2;
+  font-size: 1.25em;
+  line-height: 2em;
 }
 
 ul {
   list-style: none;
+  padding-inline-start: 0;
 }
 
 a, a:visited {
@@ -44,9 +44,8 @@ a, a:visited {
 }
 
 .social {
-  padding: 15px;
-  font-size: 32px;
-  line-height: 2;
+  font-size: 2em;
+  line-height: 2em;
 }
 
 .social a:link, .social a:visited {
