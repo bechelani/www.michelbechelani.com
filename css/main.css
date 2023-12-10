@@ -30,7 +30,7 @@ a, a:visited {
 
 .avatar {
   /* This image is 687 wide by 1024 tall, similar to your aspect ratio */
-  background-image: url('/images/michel_profile.jpg');
+  background-image: url('/images/michel_profile.jpeg');
   /* make a square container */
   width: 150px;
   height: 150px;
